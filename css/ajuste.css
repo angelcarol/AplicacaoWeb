@@ -1,0 +1,59 @@
+.detalhe{
+    background-color: #FBBC05;
+    height: 10px;
+    margin-top: 100px;
+}
+.detalheHR{
+    background-color: aliceblue;
+}
+.logoRodape{
+    width: 20%;
+}
+.rodape{
+    background-color: #4285F4;
+}
+
+.btn-ins{
+    background-color: #E1306C;
+}
+.btn-li{
+    background-color: #0082ca;
+}
+.btn-fb{
+    background-color: #3b5998;
+}
+.btn-wtp{
+    background-color: #25df69;
+}
+.btn-amarelo{
+    background-color: #FBBC05;
+}
+.logo{
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2%;
+}
+
+.apresentacao{
+    background-color: DodgerBlue;
+}
+
+
+/*coreas das divs*/
+.orange{
+    background-color: #FBBC05;
+    box-shadow: 10px 10px 0px 0px #4285F4;
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-bottom: 50px;
+}
+
+.button-social{
+    background-color: #3B5998;
+}
+.button-social:hover{
+    background-color: #3B5998;
+    border-color: #3B5998;
+}
+
