@@ -40,20 +40,43 @@
     background-color: DodgerBlue;
 }
 
-
-/*coreas das divs*/
 .orange{
     background-color: #FBBC05;
     box-shadow: 10px 10px 0px 0px #4285F4;
     transition: background-color 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin-bottom: 50px;
+    width: 70%;
 }
 
 .button-social{
     background-color: #3B5998;
+    border-color: #3B5998;
+    box-shadow: 4px 4px 0px 0px #FBBC05;
 }
 .button-social:hover{
     background-color: #3B5998;
     border-color: #3B5998;
+    box-shadow: 4px 4px 0px 0px #FBBC05;
+}
+.button-wtp{
+    background-color: #25df69;
+    box-shadow: 4px 4px 0px 0px #FBBC05;
+}
+.button-wtp:hover{
+    background-color: #25df69;
+    box-shadow: 4px 4px 0px 0px #FBBC05;
+}
+#sobre{
+list-style-type:none;
+margin-top: 75px;
+}
+.texto{
+    font-family: "Lora", Sans-serif;
 }
 
+@media(max-width: 500px){
+    .logoRodape{
+        width: 40%;
+    }
+
+}
