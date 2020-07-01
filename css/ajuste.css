@@ -68,10 +68,11 @@
 }
 #sobre{
 list-style-type:none;
-margin-top: 75px;
+margin-top: 60px;
 }
 .texto{
     font-family: "Lora", Sans-serif;
+    margin-top: 5%;
 }
 
 @media(max-width: 500px){
